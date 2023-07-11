@@ -6,11 +6,15 @@ export default defineAppConfig({
     socials: {
       twitter: 'ronaldpunt',
       github: 'nuxt-themes/docus',
+
       nuxt: {
         label: 'Nuxt',
         icon: 'simple-icons:nuxtdotjs',
         href: 'https://nuxt.com'
-      }
+      },
+
+      facebook: 'ronald.punt',
+      instagram: 'ronaldpunt'
     },
     github: {
       dir: '.starters/default/content',
