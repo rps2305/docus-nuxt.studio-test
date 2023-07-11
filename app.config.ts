@@ -49,5 +49,11 @@ export default defineAppConfig({
         text: 'Powered by Docus | Nuxt 3 | content | Github Pages'
       }
     }
+  },
+
+  prose: {
+    h1: {
+      icon: 'lucide:activity'
+    }
   }
 })
